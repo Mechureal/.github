@@ -1,46 +1,41 @@
-# Mechureal 팀 메추리알 🐣
+# Mechureal · 팀 메추리알
 
-## 소개 🌟
+팀 메추리알은 만들고 싶은 게임을 직접 만드는 소규모 인디 게임 개발팀입니다. 일상에서 얻은 소재를 게임의 규칙과 플레이로 옮기며, 현재는 Unity로 **딸배 시뮬레이터**를 개발하고 있습니다.
 
-팀 메추리알은 소수의 열정적인 사람들로 이루어진 작은 팀입니다. 저희는 다양한 아이디어와 기술을 결합하여 디스코드 봇을 개발하고 있으며, 앞으로도 여러 가지 흥미로운 프로젝트에 도전할 계획입니다.
+[공식 웹사이트](https://mechureal.github.io/ko/) · [개발 일지](https://mechureal.github.io/ko/devlog/) · [문의](mailto:team.mechureal@gmail.com)
 
-## 우리의 목표 🎯
+## 개발 중인 게임
 
-현재 팀 메추리알은 디스코드 봇 개발에 주력하고 있습니다. 하지만 저희 팀은 특정한 프로젝트에 얽매이지 않고, 다양한 아이디어를 실험하고 새로운 기술을 배우며 성장하고자 합니다. 아래는 저희가 목표로 하는 몇 가지입니다:
+### 딸배 시뮬레이터
 
-- **디스코드 봇 개발**: 유용하고 재미있는 디스코드 봇을 만들어 사용자들의 경험을 향상시키고자 합니다. 🤖
-- **기술 학습 및 적용**: 새로운 프로그래밍 언어와 기술을 배우고, 이를 프로젝트에 적용하여 지속적으로 발전합니다. 📚
-- **커뮤니티 기여**: 오픈 소스 프로젝트를 통해 커뮤니티에 기여하고, 다른 개발자들과 협력하여 더 나은 소프트웨어를 만듭니다. 🌐
+개발자의 실제 배달 경험을 바탕으로 만드는 1인칭 배달 게임입니다. 실제 지도 데이터로 구현하는 도시를 무대로, 주문 수락부터 픽업과 음식 전달까지 배달의 과정을 담고 있습니다.
 
-## 현재 진행 중인 프로젝트 🚧
+배달로 생활비를 벌고 빚을 갚는 이야기 모드와, 플레이어가 고른 실제 지역에서 배달하는 자유 배달 모드를 기획하고 있습니다. 게임은 개발 중이며, 세부 내용은 개발 과정에서 달라질 수 있습니다.
 
-### 메추리 디스코드 봇 🎮
+[게임 자세히 보기](https://mechureal.github.io/ko/games/broke-rider-simulator/)
 
-저희 팀은 현재 다양한 기능을 가진 디스코드 봇을 개발하고 있습니다. 다음은 일부 기능 예시입니다:
+## 개발 기록
 
-- **자동화 기능**: 서버 관리 및 자동 응답 기능을 통해 서버 운영을 돕습니다. 🛠️
-- **게임 및 엔터테인먼트**: 다양한 미니 게임과 재미있는 명령어를 제공하여 서버 사용자들에게 즐거움을 줍니다. 🎲
-- **정보 제공**: 날씨, 뉴스, 주식 정보 등 유용한 정보를 제공하는 기능을 개발 중입니다. 🌦️📰📈
+OpenStreetMap 데이터를 Unity의 도로와 건물로 옮기는 과정, 배달 흐름과 게임 속 휴대폰 UI를 설계하며 고민한 내용을 개발 일지에 기록합니다. 구현 과정에서 시도한 것과 바꾼 것을 구체적으로 공유합니다.
 
-## 팀 멤버 👥
+게임과 팀에 관한 소식은 [공식 웹사이트](https://mechureal.github.io/ko/)에서 확인할 수 있습니다. 게임 문의와 협업 제안은 [team.mechureal@gmail.com](mailto:team.mechureal@gmail.com)으로 보내 주십시오.
 
-팀 메추리알은 소수의 인원들로 구성되어 있으며, 각기 다른 전문성을 가진 멤버들이 협력하여 프로젝트를 진행하고 있습니다. 저희는 협업과 학습을 중요시하며, 서로의 아이디어를 존중하고 다양한 시도를 통해 성장하고자 합니다. 🌱
+---
 
-## 기여 방법 🤝
+## About Mechureal
 
-저희 프로젝트에 관심이 있으신 분들은 언제든지 기여할 수 있습니다. 기여 방법은 다음과 같습니다:
+Mechureal is a small indie game development team. We turn ideas drawn from everyday life into game systems and play. Our current project is **BROKE RIDER SIMULATOR**, built in Unity.
 
-1. **이슈 제기**: 버그를 발견하거나 새로운 기능 제안을 하고 싶다면 이슈 트래커를 통해 제기해 주세요. 🐛
-2. **풀 리퀘스트**: 코드를 수정하거나 새로운 기능을 추가한 후 풀 리퀘스트를 보내주세요. 저희 팀이 검토 후 반영하도록 하겠습니다. 📬
-3. **피드백 제공**: 프로젝트에 대한 피드백을 주시면 더욱 개선된 프로젝트를 만들 수 있습니다. 🗣️
+### BROKE RIDER SIMULATOR
 
-## 라이선스 📜
+A first-person delivery game based on the developer’s own experience delivering food. We are building a city from real map data and bringing the delivery process into the game, from accepting an order to picking up and handing over the food.
 
-팀 메추리알의 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](./LICENSE) 파일을 참고해 주세요.
+We are planning a story mode about making deliveries to cover living expenses and pay off debt, alongside a free delivery mode set in a real-world area chosen by the player. The game is in development, and details may change.
 
-## 연락처 ✉️
+[Explore the game](https://mechureal.github.io/en/games/broke-rider-simulator/)
 
-저희 팀에 대해 더 알고 싶거나, 협업을 제안하고 싶으시다면 아래 이메일로 연락해 주세요:
-- 이메일: team.mechureal@gmail.com
+### Development notes
 
-저희 팀 메추리알의 여정에 함께해 주셔서 감사합니다! 🚀💫
+Our devlog covers bringing OpenStreetMap data into Unity, building delivery systems, and designing the in-game phone UI. We share what we try, what we change, and the decisions behind the work.
+
+[Website](https://mechureal.github.io/en/) · [Devlog](https://mechureal.github.io/en/devlog/) · [Contact](mailto:team.mechureal@gmail.com)
